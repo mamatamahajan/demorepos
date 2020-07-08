@@ -1,4 +1,6 @@
 Hi all,
-This is y first file in GitHub.
+This is my first file in GitHub.
+
+doing second change to the file.will create another branch.
 
 Thank you!
